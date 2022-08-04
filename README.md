@@ -76,8 +76,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   
-  ![Arduino] (https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
- 
+ <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="[https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)" alt="arduino"/> 
+  </a>
   
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
