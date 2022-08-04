@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/python-0769AD.svg?style=for-the-badge&logo=python&logoColor=yellow" alt="python"/> 
   </a>
   <a href="https://www.cprogramming.com/" target="_blank">
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   </a>
 </p>
 
