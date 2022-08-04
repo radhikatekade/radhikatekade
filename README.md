@@ -101,10 +101,10 @@ Here are some ideas to get you started:
 <h3 align="center">Technical Skills :</h3>
 <p align="center"> 
   <a href="https://eclipse.org" target="_blank">
-  ![PyTorch] (https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
- 
+    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="pytorch"/>
+                                                                                                                             </a>
   <a href="https://eclipse.org" target="_blank">
-  ![Pandas] (https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
   </a>
   <a href="https://eclipse.org" target="_blank">
   ![NumPy] (https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
