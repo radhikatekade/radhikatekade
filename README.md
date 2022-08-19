@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - Here's my website.
 
-- All of my projects are available [@radhikatekade](github.com/radhikatekade).
+- All of my projects are available [@radhikatekade_git](github.com/radhikatekade).
 
 ---
 
