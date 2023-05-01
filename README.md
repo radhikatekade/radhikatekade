@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi, I'm Radhika Tekade<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <p><img align="right" style="width:16rem; height:auto" src="https://github.com/radhikatekade/radhikatekade/blob/main/assets/9403-woman.gif"/>
-<h3 font-size="20" align="left">I am graduating in May 2023 and actively looking for career opportunities in robotics industry.</h3>
+<h3 font-size="20" align="left">I am graduating in Dec 2023 and actively looking for career opportunities in robotics industry.</h3>
 </p>
 
 - I’m currently doing **Masters in Robotics** in **Oregon State University**
