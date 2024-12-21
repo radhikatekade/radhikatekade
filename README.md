@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - I’m currently doing **Masters in Robotics** in **Oregon State University**
 
-- You can find my resume here [@RadhikaT_cv](https://drive.google.com/file/d/1DYXkK73zAwnrfm6svvoR0M_lH1gDBxxW/view?usp=sharing).
+<!-- You can find my resume here [@RadhikaT_cv](https://drive.google.com/file/d/1DYXkK73zAwnrfm6svvoR0M_lH1gDBxxW/view?usp=sharing).
 
 - Here's my website.
 
