@@ -21,10 +21,15 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi, I'm Radhika Tekade<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <p><img align="right" style="width:16rem; height:auto" src="https://github.com/radhikatekade/radhikatekade/blob/main/assets/9403-woman.gif"/>
-<h3 font-size="20" align="left">I am graduating in Dec 2023 and actively looking for career opportunities in robotics industry.</h3>
+<h3 font-size="20" align="left">I graduated with MS in Robotics and actively looking for career opportunities in the robotics industry.</h3>
 </p>
 
+<!--
 - I’m currently doing **Masters in Robotics** in **Oregon State University**
+-->
+
+- I’m a curious and driven developer who constantly explores new technologies and looks for ways to improve my coding skills. I love working on cool projects, whether experimenting with new frameworks or contributing to open-source.
+- Always eager to learn, collaborate, and bring fresh ideas to the table, I’m excited to grow within the tech community and beyond!
 
 <!-- 
 - You can find my resume here [@RadhikaT_cv](https://drive.google.com/file/d/1DYXkK73zAwnrfm6svvoR0M_lH1gDBxxW/view?usp=sharing)
