@@ -176,9 +176,12 @@ Here are some ideas to get you started:
     <a  href="https://linkedin.com/in/radhika-tekade" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
-    <a href="https://twitter.com/example" target="_blank">
+    <a href="mailto:tekader@oregonstate.edu" target="_blank"> 
+    <img src="https://img.shields.io/badge/gmail-A8B9CC.svg?style=for-the-badge&logo=gmail&logoColor=red"
+      alt="c"/>
+    <!-- <a href="https://twitter.com/example" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
-    </a>
+    </a> -- >
   </div>
   <div>
 <!--    <a href="https://www.hackerrank.com/example" target="_blank">
@@ -190,7 +193,7 @@ Here are some ideas to get you started:
   </div>
 </div>
 
-<h4 align="center">Reach me</h3>
+<!-- <h4 align="center">Reach me</h3> -->
 
 <p align="center">
 <!--  <a  href="https://t.me/example" target="_blank">
@@ -199,9 +202,9 @@ Here are some ideas to get you started:
   <a href="mailto:example@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
   </a> -->
-<a href="mailto:tekader@oregonstate.edu" target="_blank"> 
+<!-- <a href="mailto:tekader@oregonstate.edu" target="_blank"> 
     <img src="https://img.shields.io/badge/gmail-A8B9CC.svg?style=for-the-badge&logo=gmail&logoColor=red"
-      alt="c"/>
+      alt="c"/> -->
 </p>
 
 ----
