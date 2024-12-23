@@ -50,18 +50,27 @@ Here are some ideas to get you started:
 
 <h3 align="center">Languages :</h3>
 <p align="center">
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+    <img src="https://img.shields.io/badge/matlab-E95420.svg?style=for-the-badge&logo=matlab&logoColor=black" alt="m"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/python-0769AD.svg?style=for-the-badge&logo=python&logoColor=yellow" alt="python"/> 
+  </a>
+  <a href="https://www.sql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/sql-C51A4A?style=for-the-badge&logo=sql&logoColor=black" alt="m"/>
+  </a>
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
       alt="c"/>
   </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-  <img src="https://img.shields.io/badge/matlab-DC382D.svg?style=for-the-badge&logo=matlab&logoColor=black" alt="m"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-  <img src="https://img.shields.io/badge/python-0769AD.svg?style=for-the-badge&logo=python&logoColor=yellow" alt="python"/> 
-  </a>
   <a href="https://www.cprogramming.com/" target="_blank">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
+    <img src="https://img.shields.io/badge/c%23-%23FF9900.svg?style=for-the-badge&logo=c%23&logoColor=black" alt="m"/>
+  </a>
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://img.shields.io/badge/r-000000.svg?style=for-the-badge&logo=r&logoColor=white" alt="m"/>
   </a>
 </p>
 
@@ -92,10 +101,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
   <a href="https://www.jetbrains.com/" target="_blank">
-    <img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" />
+    <img src="https://img.shields.io/badge/jetbrains%20IDE-%23FF9900.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" />
   </a>
   <a href="https://www.solidworks.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/solidworks-FF6C37.svg?style=for-the-badge&logo=SolidWorks&logoColor=white" alt="solidworks"/>
+    <img src="https://img.shields.io/badge/solidworks-A8B9CC.svg?style=for-the-badge&logo=SolidWorks&logoColor=white" alt="solidworks"/>
   </a>
   <a href="https://www.ansys.com/" target="_blank">
     <img src="https://img.shields.io/badge/ansys-183A61.svg?style=for-the-badge&logo=ansys&logoColor=white"
@@ -103,6 +112,15 @@ Here are some ideas to get you started:
   </a>
   <a href="https://ubuntu.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
+  </a>
+  <a href="https://www.ros.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/ros2-2496ED.svg?style=for-the-badge&logo=ros2&logoColor=white" alt="ubuntu"/>
+  </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank"> 
+    <img src="https://img.shields.io/badge/jira-%23150458.svg?style=for-the-badge&logo=jira&logoColor=white" alt="ubuntu"/>
+  </a>
+  <a href="https://www.atlassian.com/software/confluence" target="_blank"> 
+    <img src="https://img.shields.io/badge/confluence-C51A4A?style=for-the-badge&logo=confluence&logoColor=white" alt="ubuntu"/>
   </a>
 </p>
 
@@ -115,22 +133,31 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
   </a>
   <a href="https://eclipse.org" target="_blank">
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
+  <img src="https://img.shields.io/badge/numpy-2496ED.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
   </a>
   <a href="https://eclipse.org" target="_blank">
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
   </a>
+  <a href="https://opencv.org/" target="_blank">
+  <img src="https://img.shields.io/badge/OpenCV-E95420.svg?style=for-the-badge&logo=OpenCV&logoColor=white" alt="trello"/>
+  </a>
+  <a href="https://www.nltk.org/" target="_blank">
+  <img src="https://img.shields.io/badge/nltk-%23026AA7.svg?style=for-the-badge&logo=nltk&logoColor=white" alt="trello"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank">
+  <img src="https://img.shields.io/badge/matplotlib-181717.svg?style=for-the-badge&logo=matplotlib&logoColor=white" alt="trello"/>
+  </a>
   <a href="https://eclipse.org" target="_blank">
   <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="raspberry-pi"/>
   </a>
-  <a href="https://eclipse.org" target="_blank">
+  <!-- <a href="https://eclipse.org" target="_blank">
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="trello"/>
+  </a> -->
+  <a href="https://eclipse.org" target="_blank">
+  <img src="https://img.shields.io/badge/ros-00979D?style=for-the-badge&logo=ros&logoColor=white" alt="ros"/>
   </a>
   <a href="https://eclipse.org" target="_blank">
-  <img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white" alt="ros"/>
-  </a>
-  <a href="https://eclipse.org" target="_blank">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/>
+  <img src="https://img.shields.io/badge/AWS-A8B9CC.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/>
   </a>
 </p> 
 
