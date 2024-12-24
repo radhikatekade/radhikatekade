@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Radhika Tekade.</h1>
 <!-- img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> -->
 <p><img align="right" style="width:16rem; height:auto" src="https://github.com/radhikatekade/radhikatekade/blob/main/assets/9403-woman.gif"/>
-<h3 font-size="20" align="left">I graduated with MS in Robotics and actively looking for career opportunities in the robotics industry.</h3>
+<h3 font-size="20" align="left">I graduated with MS in Robotics and am actively looking for career opportunities in the robotics industry.</h3>
 </p>
 
 <!--
