@@ -213,8 +213,8 @@ Here are some ideas to get you started:
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=radhikatekade&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/radhikatekade)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=radhikatekade&theme=material-palenight&exclude_days=Sun%2CSat)](https://github.com/radhikatekade)
-<!-- [![](https://github-readme-streak-stats.herokuapp.com/?user=radhikatekade&theme=material-palenight)](https://github.com/radhikatekade -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=radhikatekade&theme=material-palenight&exclude_days=Sun%2CSat)](https://github.com/radhikatekade) -->
+[![](https://github-readme-streak-stats.herokuapp.com/?user=radhikatekade&theme=material-palenight)](https://github.com/radhikatekade)
 </div>
 
 ----
