@@ -215,7 +215,7 @@ Here are some ideas to get you started:
 [![](https://github-readme-stats.vercel.app/api?username=radhikatekade&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/radhikatekade)
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=radhikatekade&theme=material-palenight&exclude_days=Sun%2CSat)](https://github.com/radhikatekade) -->
 <!-- [![](https://github-readme-streak-stats.herokuapp.com/?user=radhikatekade&theme=material-palenight)](https://github.com/radhikatekade) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=radhikatekade&theme=rising-sun)](https://git.io/streak-stats) <!-- vision-friendly-dark -->
 </div>
 
 ----
